@@ -1,4 +1,4 @@
-Hi ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNpdXV1NjJpbXJiMzNhazAwNXRtbG5pdTN5azdra2dhYTRldW9jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xW2tpl8hSze3R1vAow/giphy.webp)My name is Георгий
+(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNpdXV1NjJpbXJiMzNhazAwNXRtbG5pdTN5azdra2dhYTRldW9jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xW2tpl8hSze3R1vAow/giphy.webp)
 ===============================================================================================================================
 
 Аналитик данных
