@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi ![](https://i.giphy.com/3o6Yg4GUVgIUg3bf7W.webp)My name is Георгий
+===============================================================================================================================
 
+Аналитик данных
+---------------
 <!--
 **georgelasenkov/georgelasenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
