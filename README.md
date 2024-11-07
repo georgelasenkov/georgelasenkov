@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Краткая 👨🏻 информация:</h2>
+<h2 align="center">👨🏻Краткая информация:</h2>
 
 ###
 
@@ -41,11 +41,14 @@
 
 <h2 align="center">📧Связаться со мной:</h2> 
 <div align="center">
-<a href="https://www.facebook.com/georgelasenkov" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://t.me/georgelasenkov" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:georgelasenkov@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a> 
 <a href="https://vk.com/georgelasenkov" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vkontakte style="margin-bottom: 5px;" />
 </a>  
   <a href="https://instagram.com/georgelasenkov" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
