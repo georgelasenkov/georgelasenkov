@@ -4,7 +4,7 @@
   <img height="250" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNpdXV1NjJpbXJiMzNhazAwNXRtbG5pdTN5azdra2dhYTRldW9jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xW2tpl8hSze3R1vAow/giphy.webp"  />
 </div>
 
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Георгий, я начинающий аналитик данных
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Георгий, я аналитик данных
 ===============================================================================================================================
 
 <!--
