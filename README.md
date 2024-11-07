@@ -24,6 +24,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://redash.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" alt="Power Bi" height="50" /></a> 
 <a href="https://www.metabase.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Power Bi" height="50" /></a>  
 </div>
 
@@ -50,9 +51,6 @@
 <a href="https://vk.com/georgelasenkov" target="_blank">
 <img src=https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vkontakte style="margin-bottom: 5px;" />
 </a>  
-  <a href="https://instagram.com/georgelasenkov" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 </div>
 <!--
 **georgelasenkov/georgelasenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
