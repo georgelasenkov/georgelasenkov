@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNpdXV1NjJpbXJiMzNhazAwNXRtbG5pdTN5azdra2dhYTRldW9jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xW2tpl8hSze3R1vAow/giphy.webp"  />
+  <img height="300" width="300" src="https://media.tenor.com/um_qmSDo92YAAAAi/looking-for-a-job-job.gif"  />
 </div>
 
 <h1 align="center">Привет✌🏻, меня зовут Георгий!</h1>
