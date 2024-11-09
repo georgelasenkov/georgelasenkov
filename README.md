@@ -15,9 +15,10 @@
 <h3 align="center">Я мотивированный и целеустремленный начинающий аналитик данных. Сейчас я в поиске вакансии, на которой получу ценный практический опыт и отточу необходимые навыки. На моей странице Вы сможете узнать с какими программами я умею работать и каким образом подхожу к решению аналитических задач.</h3>
 <h3 align="center">Кликнув по иконке с интересующим Вас навыком под этой строкой Вы сможете посмотреть мои работы ⬇️</h3>
 
-<h2 align="center"><a href="https://github.com/georgelasenkov/SQL" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Python" height="50" /></a></h2>
-
-###
+<h2 align="center"><a href="https://github.com/georgelasenkov/SQL" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Python" height="50" /></a>
+<a href="https://github.com/georgelasenkov/EXCEL" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/373589/excel.svg" alt="Python" height="50" /></a>
+<a href="https://github.com/georgelasenkov/PYTHON" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="50" /></a>
+</h2>
 
 <h2 align="center">⚙️Стек:</h2>
 
@@ -25,7 +26,8 @@
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Pycharm" height="50" /></a>  
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Pycharm" height="50" /></a>
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://redash.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" alt="Redash" height="50" /></a> 
