@@ -6,19 +6,31 @@
 
 <h1 align="center">Привет✌🏻, меня зовут Георгий!</h1>
 
-###
+#### <h3 align="center">``` 👨🏻Краткая информация: ```</h3>
 
-<h2 align="center">👨🏻Краткая информация:</h2>
-
-###
 
 <h3 align="center">Я мотивированный и целеустремленный начинающий аналитик данных. Сейчас я в поиске вакансии, на которой получу ценный практический опыт и отточу необходимые навыки. На моей странице Вы сможете узнать с какими программами я умею работать и каким образом подхожу к решению аналитических задач.</h3>
-<h3 align="center">Кликнув по иконке с интересующим Вас навыком под этой строкой Вы сможете посмотреть мои работы ⬇️</h3>
+<h3 align="center">Кликнув по иконке с интересующим Вас навыком под этой строкой Вы сможете посмотреть мои работы </h3>  
 
-<h2 align="center"><a href="https://github.com/georgelasenkov/SQL" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Python" height="50" /></a>
-<a href="https://github.com/georgelasenkov/EXCEL" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/373589/excel.svg" alt="Python" height="50" /></a>
-<a href="https://github.com/georgelasenkov/PYTHON" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="50" /></a>
-</h2>
+&nbsp;
+
+<div align="center">  
+<table>
+    <tr>
+        <td><a href="https://github.com/georgelasenkov/SQL" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Python" height="50"</td>
+        <td>SQL</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/georgelasenkov/EXCEL" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/373589/excel.svg" alt="Python" height="50"</td>
+        <td>EXCEL</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/georgelasenkov/PYTHON" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="50"</td>
+        <td>PYTHON</td>
+    </tr>
+</table>
+</div>
+&nbsp;
 
 <h2 align="center">⚙️Стек:</h2>
 
@@ -40,7 +52,7 @@
 
 </td><td valign="top" width="33%">
 
-
+&nbsp;
 
 </td></tr> 
 
