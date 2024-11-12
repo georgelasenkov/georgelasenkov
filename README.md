@@ -32,7 +32,9 @@
 </div>
 &nbsp;
 
-<h2 align="center">⚙️Стек:</h2>
+#### <h3 align="center">``` ⚙️Стек: ```</h3>
+
+&nbsp;
 
 <tr><td valign="top" width="33%">
 
@@ -58,7 +60,10 @@
 
 <br/>  
 
-<h2 align="center">📧Связаться со мной:</h2> 
+#### <h3 align="center">``` 📧Связаться со мной: ```</h3>
+
+&nbsp;
+
 <div align="center">
 <a href="https://t.me/georgelasenkov" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
