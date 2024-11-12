@@ -32,7 +32,7 @@
 </div>
 &nbsp;
 
-#### <h3 align="center">``` ⚙️Стек: ```</h3>
+#### <h3 align="center">``` ⚙️Инструменты: ```</h3>
 
 &nbsp;
 
